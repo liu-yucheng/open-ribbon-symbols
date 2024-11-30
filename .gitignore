@@ -1,0 +1,7 @@
+# Git ignore file
+
+# Ignore file and directory names that start with a dot。
+**/.*
+
+# DO NOT ignore the .gitignore files.
+!**/*.gitignore
